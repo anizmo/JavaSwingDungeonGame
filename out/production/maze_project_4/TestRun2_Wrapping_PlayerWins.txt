@@ -1,0 +1,214 @@
+ ╩==╩===  ╩  ╦=== 
+=======╦  ╦  ╬====
+==  ╦==╬  ╬==╬====
+ ╦  ╬  ╩  ╬  ╩=== 
+
+Welcome to the Dungeon!
+You can quit anytime by entering 'Q'
+
+You are in a cave
+You find diamonds
+You find 1 arrow here
+Doors lead to the west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+diamonds
+You picked up diamonds
+
+You are in a cave
+You find 1 arrow here
+Doors lead to the west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 4 arrows with you
+
+You are in a cave
+Doors lead to the west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+rubies
+There are no rubies in the your current location
+
+You are in a cave
+Doors lead to the west
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 5 arrows with you
+
+You are in a tunnel
+Doors lead to the east, west
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You are in a cave
+You find diamonds, rubies
+You find 1 arrow here
+Doors lead to the north, south, east, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 6 arrows with you
+
+You are in a cave
+You find diamonds, rubies
+Doors lead to the north, south, east, west
+Move, Pickup, or Shoot (M-P-S)?
+p diamonds
+Pickup what? (rubies/diamonds/sapphires/arrow)
+You picked up diamonds
+
+You are in a cave
+You find rubies
+Doors lead to the north, south, east, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+rubies
+You picked up rubies
+
+You are in a cave
+Doors lead to the north, south, east, west
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You smell something bad
+You are in a cave
+You find rubies, diamonds, sapphires
+You find 1 arrow here
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+n
+How far? (in number of caves)
+2
+An arrow is shot in the dark!
+You do not hear anything
+You now have 5 arrows with you
+
+You smell something bad
+You are in a cave
+You find rubies, diamonds, sapphires
+You find 1 arrow here
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+s
+How far? (in number of caves)
+2
+An arrow is shot in the dark!
+You do not hear anything
+You now have 4 arrows with you
+
+You smell something bad
+You are in a cave
+You find rubies, diamonds, sapphires
+You find 1 arrow here
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 5 arrows with you
+
+You smell something bad
+You are in a cave
+You find rubies, diamonds, sapphires
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+sapphires
+You picked up sapphires
+
+You smell something bad
+You are in a cave
+You find rubies, diamonds
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+p rubies
+Pickup what? (rubies/diamonds/sapphires/arrow)
+You picked up rubies
+
+You smell something bad
+You are in a cave
+You find diamonds
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+diamonds
+You picked up diamonds
+
+You smell something bad
+You are in a cave
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+s
+How far? (in number of caves)
+1
+An arrow is shot in the dark!
+You hear a great howl in the distance!
+You now have 4 arrows with you
+
+You smell something bad
+You are in a cave
+Doors lead to the south, north, east
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+s
+
+You smell something terrible nearby
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the north, south
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+s
+How far? (in number of caves)
+1
+An arrow is shot in the dark!
+You hear a great howl in the distance!
+You now have 3 arrows with you
+
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the north, south
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+s
+
+You look around and find yourself standing on a dead Otyugh!
+
+You have successfully reached the end of the dungeon!
+You Win!
+Your stats are as follows - (treasure = {rubies=1, diamonds=1, sapphires=1}, current location = (2, 4), score = 3500)

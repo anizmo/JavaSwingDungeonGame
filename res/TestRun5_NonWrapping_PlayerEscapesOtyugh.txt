@@ -1,0 +1,137 @@
+ ╦  ╦=====╦====== 
+ ╩==╩  ===╬  ===╦ 
+ ╦=====╦  ╬  ╦==╩ 
+ ╩===  ╩==╩==╩=== 
+
+Welcome to the Dungeon!
+You can quit anytime by entering 'Q'
+
+You are in a cave
+You find diamonds
+You find 1 arrow here
+Doors lead to the east, south, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+diamonds
+You picked up diamonds
+
+You are in a cave
+You find 1 arrow here
+Doors lead to the east, south, west
+Move, Pickup, or Shoot (M-P-S)?
+o
+Invalid Input, try again.
+
+You are in a cave
+You find 1 arrow here
+Doors lead to the east, south, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 4 arrows with you
+
+You are in a cave
+Doors lead to the east, south, west
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+w
+How far? (in number of caves)
+1
+An arrow is shot in the dark!
+You hear a great howl in the distance!
+You now have 3 arrows with you
+
+You are in a cave
+Doors lead to the east, south, west
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, west
+Move, Pickup, or Shoot (M-P-S)?
+p
+Pickup what? (rubies/diamonds/sapphires/arrow)
+arrow
+You picked up an arrow
+You now have 4 arrows with you
+
+You are in a tunnel
+Doors lead to the east, west
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, south
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+s
+
+You smell something bad
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the west, north
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+w
+
+You smell something terrible nearby
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, north
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+n
+1, 
+There is an injured Otyugh in the cave, you can still escape!
+Move quickly!
+You smell something bad
+You are in a cave
+You find diamonds
+You find 1 arrow here
+Doors lead to the south
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+s
+
+You smell something terrible nearby
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, north
+Move, Pickup, or Shoot (M-P-S)?
+s
+Shoot in which direction?
+n
+How far? (in number of caves)
+1
+An arrow is shot in the dark!
+You hear a great howl in the distance!
+You now have 3 arrows with you
+
+You are in a tunnel
+You find 1 arrow here
+Doors lead to the east, north
+Move, Pickup, or Shoot (M-P-S)?
+m
+Which direction?
+n
+
+You look around and find yourself standing on a dead Otyugh!
+
+You have successfully reached the end of the dungeon!
+You Win!
+
+Your stats are as follows - (treasure = {diamonds=1}, current location = (0, 0), score = 500)
