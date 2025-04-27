@@ -121,7 +121,7 @@ IntStream.range(10, 100).forEach(size -> {
 - Follow Google Java Style Guide
 
 ## Support
-Contact: [your.email@domain.com](mailto:your.email@domain.com)
+Contact: [potdar.anuj@domain.com](mailto:potdar.anuj@gmail.com)
 
 ## License
 MIT (see [LICENSE](https://github.com/anizmo/JavaSwingDungeonGame/blob/main/LICENSE))
