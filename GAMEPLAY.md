@@ -74,7 +74,7 @@ graph TD
 ## **How to Run**
 ### Requirements:
 - Java Runtime Environment (JRE) 8+
-- [Download JAR](path/to/your.jar)
+- [Download JAR](https://github.com/anizmo/JavaSwingDungeonGame/releases)
 
 ### Command Line:
 ```bash

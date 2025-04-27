@@ -27,9 +27,9 @@ This project serves as a **template** for building your own grid-based Java Swin
 
 ## 📸 Game Screenshots
 
-| Start Screen | Dungeon Maze Gameplay |
-|:------------:|:----------------------:|
-| ![Start Screen](https://github.com/anizmo/DisplayOnly/blob/main/screens/6.%20Scroll.png?raw=true) | ![Gameplay Screen](assets/gameplay_screen.png) |
+|                                           Start Screen                                            | Dungeon Maze Gameplay |
+|:-------------------------------------------------------------------------------------------------:|:----------------------:|
+| ![Start Screen](https://github.com/anizmo/DisplayOnly/blob/main/screens/7.%20WindNearPit.png?raw=true) | ![Gameplay Screen](https://github.com/anizmo/DisplayOnly/blob/main/screens/6.%20Scroll.png?raw=trueg) |
 
 *(Screenshots show the initial setup and live gameplay!)*
 
@@ -39,19 +39,23 @@ This project serves as a **template** for building your own grid-based Java Swin
 
 ## 🏗️ Project Structure
 
-```bash
+```
 JavaSwingDungeonGame/
 ├── src/
-│   ├── model/         # Core game logic: Player, Enemy, Tile, Items, etc.
-│   ├── view/          # GamePanel - responsible for rendering graphics
-│   ├── controller/    # GameController - handles user input and game coordination
-│   └── Main.java      # Entry point of the game
-├── tests/             # JUnit tests for unit testing model logic
-├── assets/            # Screenshots and visual assets
-├── README.md
-├── GAMEPLAY.md        # Game-specific instructions and controls
-├── LICENSE
-└── paper.md           # Research paper for JOSS submission
+│   └── dungeon/
+│       ├── drivers/                  # Entry point of the game
+│       ├── location/                 # Cave and tunnel logic
+│       ├── maze/                     # Maze generation and logic for keeping it connected
+│       ├── obstacles/                # Obstacle models and their logic
+│       ├── player/                   # Player-related logic (movement, interactions)
+│       ├── view/                     # GamePanel - responsible for rendering game graphics
+│       └── RandomGenerator.java      # Encapsulated random generation logic for game elements
+├── test/                             # JUnit tests for core model logic
+├── assets/                           # Screenshots, icons, and other visual assets
+├── README.md                         # Main project documentation (setup, features, etc.)
+├── GAMEPLAY.md                       # Detailed game instructions and controls
+├── LICENSE                           # Project's open-source license (e.g., MIT)
+└── paper.md                          # Research paper for JOSS submission
 ```
 
 ---
