@@ -1,3 +1,21 @@
+---
+title: 'JavaSwingDungeonGame: A Configurable Maze Adventure Game with Procedural Generation and Combat Mechanics'
+tags:
+  - Java
+  - Swing GUI
+  - Procedural generation
+  - Game development
+  - Maze algorithm
+authors:
+  - name: Anuj Ashok Potdar
+    affiliation: 1
+affiliations:
+  - name: Independent Researcher
+    index: 1
+date: 2025-04-26
+bibliography: paper.bib
+---
+
 # Summary
 
 JavaSwingDungeonGame is an open-source graphical adventure game implementing:
